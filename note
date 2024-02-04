@@ -1,0 +1,12 @@
+-- || For uploading image in api ||
+--1) create image table into database 
+--Run this command: php artisan make:migration create images table
+-- create table name inside the file of table 
+--   Run this command: php artisan migrate 
+
+-- create model file for uploading image files 
+--    Run this command: php artisan make:model image
+
+-- create the folder inside the public folder
+--    for uploading image files 
+
